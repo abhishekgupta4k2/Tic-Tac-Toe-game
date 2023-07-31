@@ -1,0 +1,15 @@
+.board-row {
+  display: flex;
+  /* justify-content: space-evenly; */
+  align-items: center;
+
+  justify-content: center;
+}
+
+.board-container {
+  margin: 20px;
+}
+
+#forCenter {
+  text-align: center;
+}
